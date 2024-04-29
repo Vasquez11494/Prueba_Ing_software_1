@@ -13,7 +13,7 @@ echo "<h1>HOLA MUNDO</h1>";
 
 for ($i = 1; $i <=10; $i++){
 
-    echo $i ." X 10 =". $i*10 ."<br>";
+    echo $i ." X 10 = <b>". $i*10 ."</b><br>";
 
 }
 
